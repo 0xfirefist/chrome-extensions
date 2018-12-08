@@ -1,5 +1,7 @@
 # HELLO CHROME 
 
+## STEP 1
+
 ### Every extension has a *JSON*-formatted manifest file, named manifest.json, that provides important information.
 
 #### MANIFEST.JSON
@@ -20,3 +22,7 @@ We have entered some data in [manifest.json](manifest.json) file let's understan
      - default_popup -> This key tells the information about the popup page
 
 #### As of now, you need to know only these manifest keys  
+
+## STEP 2 
+In this commit you have to add icons which we specify in manifest file. For relative path ,specified for the icons in manifest.json, to be correct icons must be in the same folder.
+  
