@@ -29,3 +29,13 @@ In this commit you have to add icons which we specify in manifest file. For rela
 ## STEP 3
 Now, we have added a [popup page](popup.html), which will popup whenever you will click on the extension button in the browser's toolbar.
 
+## STEP 4(LAST)
+ The last step is to install the extension on your local machine.
+
+  -  Navigate to chrome://extensions in your browser. You can also access this page by entering it as a URL.
+  -  Check the box next to Developer Mode.
+  -  Click Load Unpacked Extension and select the directory for your "Hello Extensions" extension.
+
+
+## THAT'S IT YOUR HELLO WORLD EXTENSION WILL BE LOADED TO YOUR BROWSER.
+### CONGRATULATIONS
