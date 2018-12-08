@@ -26,3 +26,6 @@ We have entered some data in [manifest.json](manifest.json) file let's understan
 ## STEP 2 
 In this commit you have to add icons which we specify in manifest file. For relative path ,specified for the icons in manifest.json, to be correct icons must be in the same folder.
   
+## STEP 3
+Now, we have added a [popup page](popup.html), which will popup whenever you will click on the extension button in the browser's toolbar.
+
