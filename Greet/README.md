@@ -30,5 +30,9 @@ In this commit you have to add icons which we specify in manifest file. For rela
 
  ## STEP 3
 Now, we have added a [popup page](popup.html), which will popup whenever you will click on the extension button in the browser's toolbar.
+ 
+ ##Step 4
+Now, we have added a [popup.js page](popup.js), which handles the action to be taken on the button in the [popup.html page](popup.html) is clicked.
+Note that inline script in html page is not supported in chrome extensions. So one needs to maintain a separate js file and add the source in the html file as done in the particular example. 
 
   
