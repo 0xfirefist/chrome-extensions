@@ -35,4 +35,17 @@ Now, we have added a [popup page](popup.html), which will popup whenever you wil
 Now, we have added a [popup.js page](popup.js), which handles the action to be taken on the button in the [popup.html page](popup.html) is clicked.
 Note that inline script in html page is not supported in chrome extensions. So one needs to maintain a separate js file and add the source in the html file as done in the particular example. 
 
+
+ ## STEP 5(LAST)
+ The last step is to install the extension on your local machine.
+   -  Navigate to chrome://extensions in your browser. You can also access this page by entering it as a URL.
+  -  Check the box next to Developer Mode.
+  -  Click Load Unpacked Extension and select the directory for your "Greet Me" extension.
+ ## THAT'S IT YOUR GREET ME EXTENSION WILL BE LOADED TO YOUR BROWSER.
+### CONGRATULATIONS
+### Similarly, you can make your own extensions for adding/subtracting/multiplying/dividing two numbers. Try once!!
+
+Apologies for the change of title of the readme page.
+
+ ### ENJOY
   
