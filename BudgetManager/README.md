@@ -13,3 +13,8 @@ In this example we will use an API named chrome storage.
 
 #### Popup Html
 As explained in the last examples we have added the popup.html file. This take the input from user for the amount to be spent and shows the total money spent.
+
+## step 3
+
+#### Popup js
+if you see [popup.js](popup.js) file there is one new thing you might don't know is this chrome.storage..... .It is the api we are using to use the storage provided by the browser. You can follow the [link](https://developer.chrome.com/extensions/storage) to know more about it. If have any doubt do ask on discord.
